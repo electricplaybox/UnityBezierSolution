@@ -1,5 +1,5 @@
 {
-    "name": "com.yasirkula.beziersolution",
+    "name": "com.electricplaybox.yasirkula.beziersolution",
   "displayName": "Bezier Solution",
   "version": "1.27.1",
   "description": "This asset is a means to create bezier splines in editor and/or during runtime: splines can be created and edited visually in the editor, or by code during runtime.",
