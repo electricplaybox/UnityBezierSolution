@@ -1,7 +1,26 @@
 {
-  "name": "com.yasirkula.beziersolution",
+    "name": "com.yasirkula.beziersolution",
   "displayName": "Bezier Solution",
   "version": "1.27.1",
   "description": "This asset is a means to create bezier splines in editor and/or during runtime: splines can be created and edited visually in the editor, or by code during runtime.",
-  "hideInEditor": false
-}
+    "unity": "2020.1",
+    "unityRelease": "1f1",
+    "keywords": [
+      "Plugin",
+      "Playbox",
+      "Adventure"
+    ],
+    "author": {
+      "name": "Yasirkula",
+      "email": "yasirkula@yahoo.com",
+      "url": "https://yasirkula.net/"
+    },
+    "type": "library",
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/@electricplaybox/"
+    },
+    "repository": {
+      "type": "git",
+      "url": "ssh://git@github.com:electricplaybox/UnityBezierSolution.git",
+    }
+  }
